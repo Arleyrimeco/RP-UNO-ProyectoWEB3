@@ -1,0 +1,12 @@
+con css se editan los estilos en html
+*** y se modifica la visibilidad
+y vamos a 
+continua realizando cambios 
+de texto en este archivo para 
+hacerle seguimiento con GIT
+
+CSS permite hacer los stilos como color de fondo
+en una página y todo lo visual. Y estos archivos 
+se pueden adicionar en html
+
+**PRIMER CAMBIO realizado en css
